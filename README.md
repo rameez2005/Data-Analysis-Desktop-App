@@ -85,8 +85,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy pyqt5
 ## Run the Project
 python run.py
 
+---
 
-📚 Statistical Concepts Applied
+## 📚 Statistical Concepts Applied
 Descriptive Statistics (mean, median, mode, IQR, etc.)
 
 Probability Mass Function (PMF) – for Binomial & Poisson distributions
@@ -96,7 +97,8 @@ Probability Density Function (PDF) – for Normal & Uniform distributions
 Linear Regression (with R² evaluation)
 
 95% Confidence Intervals (based on t-distribution)
+---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Muhammad Rameez
 🎓 FAST-NUCES, Computer Science
